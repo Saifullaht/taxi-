@@ -1,0 +1,42 @@
+#hello1{
+ font-weight: 900; text-align: center; text-decoration: underline;
+}
+#div1{
+    border: 2px solid none; width: 25%; height: 75vh; display: inline-block; background-color: white; border-radius: 12px;
+}
+#hello5{
+    text-align: center;  background-color: black; color: yellow; font-weight: 900; position: absolute; left: 8.5%; 
+}
+p{
+    text-align: center; font-family: 'Courier New', Courier, monospace;
+}
+#hello2{
+    margin-left: 12px; margin-top: 53px;
+}
+#hello6{
+    text-align: center;  background-color: black; color: yellow; font-weight: 900; position: absolute; left: 34%; 
+}
+#hello7{
+    text-align: center;  background-color: black; color: yellow; font-weight: 900; position: absolute; left: 59%; 
+}
+input{
+    cursor: wait; border-radius: 12px;
+}
+#main{
+    position: absolute; left: 200px; top: 60px; ;
+}
+#hello9{
+    margin-left: 13px;
+}
+h4{
+    text-align: center;
+}
+body{
+    background-color: yellow;
+}
+h3{
+    text-decoration: underline;
+}
+#hello8{
+    border-radius: 12px;
+}
